@@ -1,3 +1,8 @@
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
+
 public class IntTree {
     //one instance variable
     private IntTreeNode overAllRoot;
