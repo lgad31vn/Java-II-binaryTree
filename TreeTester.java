@@ -1,3 +1,8 @@
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
+
 //purpose is to create binary tree
 public class TreeTester {
     public static void main(String[] args) {
