@@ -1,3 +1,8 @@
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
+
 //create a TreeNode class -- similar to ListNode
 public class IntTreeNode {
     //3 instance variables
